@@ -1,0 +1,5 @@
+I:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\ISACFMgr.exe
+I:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\ISACFMgr.pdb
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ISACFMgr.exe
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ISACFMgr.pdb

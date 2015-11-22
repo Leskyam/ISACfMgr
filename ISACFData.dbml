@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ISA_Server_Logs" Class="ISACFDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local);Initial Catalog=ISA_Server_Logs;Persist Security Info=True;User ID=sa;Application Name=&quot;ISACFMgr Service&quot;" SettingsObjectName="LAMSoft.ISACFMgr.Properties.Settings" SettingsPropertyName="ISA_Server_LogsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ccfDatosGen" Member="ccfDatosGens">
+    <Type Name="ccfDatosGen">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="dateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="source" Type="System.String" DbType="VarChar(512) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ccfCategory" Member="ccfCategories">
+    <Type Name="ccfCategory">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="default_type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="name_en" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="desc_en" Type="System.String" DbType="VarChar(2048) NOT NULL" CanBeNull="false" />
+      <Column Name="processForISARule" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="ccfCategory_ccfCategoryName_es" Member="ccfCategoryName_es" ThisKey="ID" OtherKey="id_Category" Type="ccfCategoryName_es" Cardinality="One" />
+      <Association Name="ccfCategory_ccfDomain" Member="ccfDomains" ThisKey="ID" OtherKey="id_Category" Type="ccfDomain" />
+      <Association Name="ccfCategory_ccfUrl" Member="ccfUrls" ThisKey="ID" OtherKey="id_Category" Type="ccfUrl" />
+      <Association Name="ccfCategory_ccfIPv4" Member="ccfIPv4s" ThisKey="ID" OtherKey="id_Category" Type="ccfIPv4" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ccfCategoryName_es" Member="ccfCategoryName_es">
+    <Type Name="ccfCategoryName_es">
+      <Column Name="id_Category" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name_es" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="desc_es" Type="System.String" DbType="NVarChar(2048)" CanBeNull="true" />
+      <Association Name="ccfCategory_ccfCategoryName_es" Member="ccfCategory" ThisKey="id_Category" OtherKey="ID" Type="ccfCategory" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ccfDomain" Member="ccfDomains">
+    <Type Name="ccfDomain">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_Category" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="domain" Type="System.String" DbType="VarChar(2048) NOT NULL" CanBeNull="false" />
+      <Association Name="ccfCategory_ccfDomain" Member="ccfCategory" ThisKey="id_Category" OtherKey="ID" Type="ccfCategory" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ccfUrl" Member="ccfUrls">
+    <Type Name="ccfUrl">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_Category" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="url" Type="System.String" DbType="VarChar(2048) NOT NULL" CanBeNull="false" />
+      <Association Name="ccfCategory_ccfUrl" Member="ccfCategory" ThisKey="id_Category" OtherKey="ID" Type="ccfCategory" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ccfIPv4" Member="ccfIPv4s">
+    <Type Name="ccfIPv4">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_Category" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Association Name="ccfCategory_ccfIPv4" Member="ccfCategory" ThisKey="id_Category" OtherKey="ID" Type="ccfCategory" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ccfCategoryToBlock" Member="ccfCategoryToBlocks">
+    <Type Name="ccfCategoryToBlock">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="processDomains" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="processUrls" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="processIPs" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.vw_ccfCategoryToBlock" Member="vw_ccfCategoryToBlocks">
+    <Type Name="vw_ccfCategoryToBlock">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="desc_en" Type="System.String" DbType="VarChar(2048) NOT NULL" CanBeNull="false" />
+      <Column Name="default_type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="processForISARule" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="processDomains" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="processUrls" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="processIPs" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,12 @@
+D:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\WinServiceSeparateThread.exe
+D:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\WinServiceSeparateThread.pdb
+D:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\WinServiceSeparateThread.exe
+D:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\WinServiceSeparateThread.pdb
+J:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\WinServiceSeparateThread.exe
+J:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\WinServiceSeparateThread.pdb
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\WinServiceSeparateThread.exe
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\WinServiceSeparateThread.pdb
+I:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\WinServiceSeparateThread.exe
+I:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\WinServiceSeparateThread.pdb
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ResolveAssemblyReference.cache
