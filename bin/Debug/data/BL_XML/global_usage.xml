@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CategoryIndex DateCreated="2010-06-11T11:12:56.0000000-05:00" source="http://localhost/test-isacfmgr/shallalist.tar.gz">
+ <Category name="adv">
+  <default-type>black</default-type>
+  <desc-en>All about advertising: This includes sites offering banners and banner creation as well as sites delivering banners to be shown in webpages and advertising companies.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Advertisements</name-en>
+  <name-es>Anuncios</name-es>
+ </Category>
+ <Category name="aggressive">
+  <default-type>black</default-type>
+  <desc-en>Sites with aggressive content such as racism and hate speech.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Aggressive</name-en>
+  <name-es>Agresivo</name-es>
+ </Category>
+ <Category name="alcohol">
+  <default-type>black</default-type>
+  <desc-en>Sites of breweries, wineries and destilleries. This category also covers sites that explain how to make beer, wines and spirits.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Alcohol</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="automobile/cars">
+  <default-type>black</default-type>
+  <desc-en>All sites related to cars. Included are automobile companies and automotive suppliers.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Automobile/Cars</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="automobile/bikes">
+  <default-type>black</default-type>
+  <desc-en>All sites related to motorcycles. Included are vendor sites, resellers, fan and hobby pages as well as and suppliers. Scooters included.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Automobile/Bikes</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="automobile/boats">
+  <default-type>black</default-type>
+  <desc-en>All sites related motorboats. Included are vendor sites, resellers, fan and hobby pages as well as and suppliers.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Automobil/Boats</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="automobile/planes">
+  <default-type>black</default-type>
+  <desc-en>All sites related to planes ranging from small one and two seaters up to the large traffic planes, old and new, private, commercial and military. Vendors and supplier are included (airports are not). Helicopter sites are included as well.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Automobile/Planes</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="chat">
+  <default-type>black</default-type>
+  <desc-en>Site for real-time chatting and instant messaging.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Chat</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="costtraps">
+  <default-type>black</default-type>
+  <desc-en>Sites that lure with free of charge services but then give then give you a costly subscription (written somewhere in tiny letters nearly unreadable).</desc-en>
+  <desc-es></desc-es>
+  <name-en>Cost Traps</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="dating">
+  <default-type>black</default-type>
+  <desc-en>Sites to contact people for love and living together. He seeks her, she seeks him and so on.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Dating</name-en>
+  <name-es>Dating</name-es>
+ </Category>
+ <Category name="downloads">
+  <default-type>black</default-type>
+  <desc-en>This covers mostly filesharing, p2p and torrent sites. Other download sites (for software, wallpapers, ..) are included as well.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Downloads</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="drugs">
+  <default-type>black</default-type>
+  <desc-en>Sites offering drugs or explain how to make drugs. Covers alcohol and tobacco as well as viagra and similar substances.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Drugs</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="dynamic">
+  <default-type>black</default-type>
+  <desc-en>All domains where people login obtaining a dynamic IP address.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Dynamic (Dialup) Addresses</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="education/schools">
+  <default-type>black or white</default-type>
+  <desc-en>Home pages of schools, colleges and universities.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Schools</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="finance/banking">
+  <default-type>black</default-type>
+  <desc-en>Home page of banking companies are listed here. This is not restricted to online banking.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Finance/Banking</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="finance/insurance">
+  <default-type>black</default-type>
+  <desc-en>Sites of insurance companies, information about insurances and link collections concering this subject.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Finance/Insurance</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="finance/moneylending">
+  <default-type>black</default-type>
+  <desc-en>Sites one can apply for loans and mortgages or can obtain information about this business.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Finance/Moneylending</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="finance/other">
+  <default-type>black</default-type>
+  <desc-en>Finance in general.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Finance/Other</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="finance/realestate">
+  <default-type>black</default-type>
+  <desc-en>Sites about all types of real estate, buying and selling homes, finding apartments for rent.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Finance/Realestate</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="finance/trading">
+  <default-type>black</default-type>
+  <desc-en>Sites about and related to stock exchange.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Finance/Trading</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="fortunetelling">
+  <default-type>black</default-type>
+  <desc-en>All sites about astrology, horoscopes, numerology, palm reading and so on; sites that offer services to fortell the future.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Fortune telling</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="forum">
+  <default-type>black</default-type>
+  <desc-en>Discussion sites. Covers explicit forum sites and some blogs. Sites where people can discuss and share information in a non interactive/real-time way.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Forum</name-en>
+  <name-es>Forum</name-es>
+ </Category>
+ <Category name="gamble">
+  <default-type>black</default-type>
+  <desc-en>Sites offering the possibility to win money. Poker, Casino, Bingo and other chance games as well as betting sites.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Gambling/Casino</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="government">
+  <default-type>black or white</default-type>
+  <desc-en>Sites belonging to the government of a country, county or city.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Government</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="hacking">
+  <default-type>black</default-type>
+  <desc-en>Sites with information and discussions about security weaknesses and how to exploit them. Sites offering exploits are listed as well as sites distributing programs that help to find security leaks.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hacking</name-en>
+  <name-es>Hacking</name-es>
+ </Category>
+ <Category name="hobby/cooking">
+  <default-type>black</default-type>
+  <desc-en>Sites concerning food and food preparation.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hobby/Cooking</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="hobby/games-misc">
+  <default-type>black</default-type>
+  <desc-en>Sites related to games. This includes descriptions, news and general information about games. No gambling sites.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hobby/Games</name-en>
+  <name-es>Manía/Juegos</name-es>
+ </Category>
+ <Category name="hobby/games-online">
+  <default-type>black</default-type>
+  <desc-en>Sites about online games. The games are for fun only (no gambling).</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hobby/Online-Games</name-en>
+  <name-es>Manía/Juegos-Online</name-es>
+ </Category>
+ <Category name="hobby/gardening">
+  <default-type>black</default-type>
+  <desc-en>Sites about gardening, growing plants, fighting bugs and everything related to gardening.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hobby/Gardening</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="hobby/pets">
+  <default-type>black</default-type>
+  <desc-en>All topics concerning pets: description, breed, food, looks, fairs, favorite pet stories and so on.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hobby/Pets</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="homestyle">
+  <default-type>black</default-type>
+  <desc-en>Sites about everything need to create a cozy home (interior design and accessories).</desc-en>
+  <desc-es></desc-es>
+  <name-en>Homestyle</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="hospitals">
+  <default-type>black</default-type>
+  <desc-en>Sites of hospitals and medical facilities.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Hospitals</name-en>
+  <name-es>Hospitales</name-es>
+ </Category>
+ <Category name="imagehosting">
+  <default-type>black</default-type>
+  <desc-en>Sites specialized on hosting images, photo galleries and so on.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Imagehosting</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="isp">
+  <default-type>black</default-type>
+  <desc-en>Home pages of Internet Service Providers. Sites of companies offering webspace only are now being added, too</desc-en>
+  <desc-es></desc-es>
+  <name-en>Internet Service Provider</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="jobsearch">
+  <default-type>black</default-type>
+  <desc-en>Portals for job offers and job seekers as well as the career and work-for-us pages of companies.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Jobsearch</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="library">
+  <default-type>black or white</default-type>
+  <desc-en>Online libraries and sites where you can read e-books.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Library</name-en>
+  <name-es>Biblioteca</name-es>
+ </Category>
+ <Category name="military">
+  <default-type>black</default-type>
+  <desc-en>Sites of military facilities or related to the armed forces.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Military</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="models">
+  <default-type>black</default-type>
+  <desc-en>Model agency, model and supermodel fan pages and other model sites presenting model photos. No porn pictures.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Models</name-en>
+  <name-es>Models</name-es>
+ </Category>
+ <Category name="movies">
+  <default-type>black</default-type>
+  <desc-en>Sites offering cinema programs, information about movies and actors. Sites for downloading video clips/movies (as long as it is legal) are included as well.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Movies and Videos</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="music">
+  <default-type>black</default-type>
+  <desc-en>Sites that offer the download of music, information about music groups or music in general.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Music</name-en>
+  <name-es>Música</name-es>
+ </Category>
+ <Category name="news">
+  <default-type>black</default-type>
+  <desc-en>Sites presenting news. Homepages from newspapers, magazines and journals as well as some blogs.</desc-en>
+  <desc-es></desc-es>
+  <name-en>News</name-en>
+  <name-es>Noticias</name-es>
+ </Category>
+ <Category name="podcasts">
+  <default-type>black</default-type>
+  <desc-en>Sites offering podcasts or podcast services.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Podcasts</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="politics">
+  <default-type>black</default-type>
+  <desc-en>Sites of political parties, political organisations and associations; sites with political discussions.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Politics</name-en>
+  <name-es>Política</name-es>
+ </Category>
+ <Category name="porn">
+  <default-type>black</default-type>
+  <desc-en>Sites about all kinds of sexual content ranging from bare bosoms to hardcore porn and sm.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Porn</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="radiotv">
+  <default-type>black</default-type>
+  <desc-en>Domains and urls of TV and radio stations.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Radio and TV</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="recreation/humor">
+  <default-type>black</default-type>
+  <desc-en>Humorous pages, comic strips, funny stories, everything which makes people laugh.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Recreation/Humor</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="recreation/martialarts">
+  <default-type>black</default-type>
+  <desc-en>Sites dedicated to martial arts such as: karate, kung fu, taek won do as well as fighting sports sites like ufc.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Recreation/Martialarts</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="recreation/restaurants">
+  <default-type>black</default-type>
+  <desc-en>Sites of restaurants as well as restaurant descriptions and commentaries.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Recreation/Restaurants</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="recreation/sports">
+  <default-type>black</default-type>
+  <desc-en>All about sports: sports teams, sport discussions as well as information about sports people and the various sports themselves.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Recreation/Sports</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="recreation/travel">
+  <default-type>black</default-type>
+  <desc-en>Sites with information about foreign countries, travel companies, travel fares, accommodations and everything else that has to do with travel.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Recreation/Travel</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="recreation/wellness">
+  <default-type>black</default-type>
+  <desc-en>Sites about treatments for feeling internally and externally healthy and beautiful again.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Recreation/Wellness</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="redirector">
+  <default-type>black</default-type>
+  <desc-en>Sites that actively help to bypass url filters by accepting urls via form and play a proxing and redirecting role.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Proxy</name-en>
+  <name-es>Proxy</name-es>
+ </Category>
+ <Category name="religion">
+  <default-type>black</default-type>
+  <desc-en>Sites with religious content: all kind of churches, sects, religious interpretations, etc.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Religion</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="remotecontrol">
+  <default-type>black</default-type>
+  <desc-en>Sites offering the service to remotely access computers, especially (but not limited to going) through firewalls. This does not cover traditional VPN.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Remote Control</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="ringtones">
+  <default-type>black</default-type>
+  <desc-en>Sites that offer the download of ringtones or present other information about ringtones.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Ringtones</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="science/astronomy">
+  <default-type>black</default-type>
+  <desc-en>Sites of institutions as well as of amateurs about all topics of astronomy.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Science/Astronomy</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="science/chemistry">
+  <default-type>black</default-type>
+  <desc-en>Sites of institutions as well as of amateurs about all topics of chemistry.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Science/Chemistry</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="searchengines">
+  <default-type>black</default-type>
+  <desc-en>Collection of search engines and directory sites.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Searchengines</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="sex/lingerie">
+  <default-type>black</default-type>
+  <desc-en>Sites selling and presenting sexy lingerie.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Sex/Lingerie.</name-en>
+  <name-es>Sex/Lenceria.</name-es>
+ </Category>
+ <Category name="sex/education">
+  <default-type>black or white</default-type>
+  <desc-en>Sites explaining the biological functions of the body concerning sexuality as well as sexual health.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Sex/Education.</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="shopping">
+  <default-type>black</default-type>
+  <desc-en>Sites offering online shopping and price comparisons.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Shopping</name-en>
+  <name-es>Shopping</name-es>
+ </Category>
+ <Category name="socialnet">
+  <default-type>black</default-type>
+  <desc-en>Sites bringing people together (social networking) be it for friendship or for business.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Social Networking</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="spyware">
+  <default-type>black</default-type>
+  <desc-en>Sites that try to actively install software or lure the user in doing so in order to spy the surfing behaviour (or worse). The home calling sites where the collected information is sent, are listed too.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Spyware</name-en>
+  <name-es>Spyware</name-es>
+ </Category>
+ <Category name="tracker">
+  <default-type>black</default-type>
+  <desc-en>Sites keeping an eye on where you surf and what you do in a passive manner. Covers web bugs, counters and other tracking mechanisms in web pages that do not interfere with the local computer yet collect information about the surfing person for later analysis.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Tracker</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="updatesites">
+  <default-type>white</default-type>
+  <desc-en>List to allow necessary downloads from vendors.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Update Sites</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="violence">
+  <default-type>black</default-type>
+  <desc-en>Sites about killing and harming people. Covers anything about brutality and beastiality.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Violence</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="warez">
+  <default-type>black</default-type>
+  <desc-en>Collection of sites offering programs to break licence keys, licence keys themselves, cracked software and other copyrighted material.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Warez</name-en>
+  <name-es>Warez</name-es>
+ </Category>
+ <Category name="weapons">
+  <default-type>black</default-type>
+  <desc-en>Sites offering all kinds of weapons or accessories for weapons: Firearms, knifes, swords, bows, etc. Armory shops are included as well as sites holding general information about arms (manufacturing, usage).</desc-en>
+  <desc-es></desc-es>
+  <name-en>Weapons</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="webmail">
+  <default-type>black</default-type>
+  <desc-en>Sites that offer web-based email services.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Webmail</name-en>
+  <name-es>Webmail</name-es>
+ </Category>
+ <Category name="webphone">
+  <default-type>black</default-type>
+  <desc-en>Sites that enable user to phone via the Internet. Any site where users can voice-chat with each other.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Internet Phone</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="webradio">
+  <default-type>black</default-type>
+  <desc-en>Sites that offer listening to music and radio live streams.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Internet radios</name-en>
+  <name-es></name-es>
+ </Category>
+ <Category name="webtv">
+  <default-type>black</default-type>
+  <desc-en>Sites offering TV streams via Internet.</desc-en>
+  <desc-es></desc-es>
+  <name-en>Web TV, Internet TV</name-en>
+  <name-es></name-es>
+ </Category>
+</CategoryIndex>

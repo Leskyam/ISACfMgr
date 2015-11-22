@@ -1,0 +1,105 @@
+﻿
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+Excepción durante la fase de instalación.
+System.InvalidOperationException: No se puede abrir el administrador de control de servicios en el equipo '.'. Puede que se requieran otros privilegios para realizar la operación.
+Se produjo una excepción interna System.ComponentModel.Win32Exception con el siguiente mensaje de error: Acceso denegado.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+
+Iniciando la desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La desinstalación ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+Excepción durante la fase de instalación.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.
+El archivo está ubicado en D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.

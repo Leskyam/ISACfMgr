@@ -1,0 +1,112 @@
+﻿Instalando ensamblado 'I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando el servicio Servicio ISACFMgr...
+El servicio Servicio ISACFMgr se ha instalado correctamente.
+Creando el origen de EventLog Servicio ISACFMgr en el registro Application...
+Confirmando ensamblado 'I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Desinstalando ensamblado 'I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   logfile = I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Quitando el origen de EventLog Servicio ISACFMgr.
+Excepción durante la desinstalación del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acceso denegado al Registro solicitado.
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando el servicio ISACFMgr...
+Creando el origen de EventLog ISACFMgr en el registro Application...
+Deshaciendo ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen ISACFMgr.
+Instalando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando el servicio ISACFMgr...
+El servicio ISACFMgr se ha instalado correctamente.
+Creando el origen de EventLog ISACFMgr en el registro Application...
+Confirmando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Desinstalando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Quitando el origen de EventLog ISACFMgr.
+Se está quitando el servicio ISACFMgr del sistema...
+Excepción durante la desinstalación del instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando el servicio ISACFMgr...
+Creando el origen de EventLog ISACFMgr en el registro Application...
+Deshaciendo ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen ISACFMgr.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando el servicio ISACFMgr...
+El servicio ISACFMgr se ha instalado correctamente.
+Creando el origen de EventLog ISACFMgr en el registro Application...
+Confirmando ensamblado 'D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando ensamblado 'D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog
+Instalando el servicio ISACFMgr...
+El servicio ISACFMgr se ha instalado correctamente.
+Creando el origen de EventLog ISACFMgr en el registro Application...
+Confirmando ensamblado 'D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+   i = 
+   logfile = D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.InstallLog

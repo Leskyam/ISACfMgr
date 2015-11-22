@@ -1,0 +1,41 @@
+I:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\ISACFMgr.exe
+I:\Proyectos\Windows\WinServiceSeparateThread\bin\Debug\ISACFMgr.pdb
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ISACFMgr.exe
+I:\Proyectos\Windows\WinServiceSeparateThread\obj\Debug\ISACFMgr.pdb
+I:\Proyectos\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.exe
+I:\Proyectos\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.pdb
+I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+I:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.pdb
+I:\Proyectos\WinServices\ISACFMgrWinService\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.config
+D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+D:\Proyectos\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.pdb
+D:\Proyectos\WinServices\ISACFMgrWinService\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.exe
+D:\Proyectos\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.pdb
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.config
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe.manifest
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.application
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.exe
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\ISACFMgr.pdb
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\bin\Debug\Interop.FPCLib.dll
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\Interop.FPCLib.dll
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\LAMSoft.ISACFMgr.csproj.ResolveComReference.cache
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.exe.manifest
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.application
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.exe
+D:\Proyectos-VS2010\WinServices\ISACFMgrWinService\obj\Debug\ISACFMgr.pdb
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\ISACFMgr.exe.config
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\LAMSoft.ISACFMgr.csproj.ResolveComReference.cache
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\ISACFMgr.exe
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\ISACFMgr.pdb
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\LAMSoft.ISACFMgr.csprojResolveAssemblyReference.cache
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\ISACFMgr.exe.manifest
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\ISACFMgr.application
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\ISACFMgr.exe
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\ISACFMgr.pdb
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\Interop.FPCLib.dll
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\ISACFMgr.exe.manifest
+C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\ISACFMgr.application

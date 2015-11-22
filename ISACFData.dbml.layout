@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ISACFData">
+  <DataContextMoniker Name="/ISACFDataContext" />
+  <nestedChildShapes>
+    <classShape Id="365847c2-5341-4c84-92dd-8b15ca091b87" absoluteBounds="0.625, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ISACFDataContext/ccfDatosGen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d3bba49-3f40-4589-acae-411ac5312c46" absoluteBounds="0.64000000000000012, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="08f3f71f-0229-41df-bc86-cba0b613a886" absoluteBounds="3.5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ISACFDataContext/ccfCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="58230c59-ebdb-4bc2-9fd3-daf2d05ddf6d" absoluteBounds="3.5149999999999997, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="320420ac-f66c-4782-bcfc-50c625f5aa7c" absoluteBounds="3.5, 3.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ISACFDataContext/ccfCategoryName_es" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aee78278-c091-4dd1-bd57-c966e7e1bdc3" absoluteBounds="3.5150000000000006, 3.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4a773747-8e1c-4b34-8924-e83f98f568ff" absoluteBounds="6.625, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ISACFDataContext/ccfDomain" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea3c7c01-e675-4673-9c75-de6c44e98a5e" absoluteBounds="6.64, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 1.19314697265625); (6.625 : 1.19314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ISACFDataContext/ccfCategory/ccfCategory_ccfDomain" />
+      <nodes>
+        <classShapeMoniker Id="08f3f71f-0229-41df-bc86-cba0b613a886" />
+        <classShapeMoniker Id="4a773747-8e1c-4b34-8924-e83f98f568ff" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5b47afd7-1d1b-485e-8908-6181586811e5" absoluteBounds="6.625, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ISACFDataContext/ccfUrl" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f9a1f97-0b3f-4a34-a30e-1932c485277a" absoluteBounds="6.6400000000000006, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.29409912109375); (6.625 : 2.29409912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ISACFDataContext/ccfCategory/ccfCategory_ccfUrl" />
+      <nodes>
+        <classShapeMoniker Id="08f3f71f-0229-41df-bc86-cba0b613a886" />
+        <classShapeMoniker Id="5b47afd7-1d1b-485e-8908-6181586811e5" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="bc8bd2c5-17dc-4155-9b02-d65ea1b58bc4" absoluteBounds="6.625, 3.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ISACFDataContext/ccfIPv4" />
+      <nestedChildShapes>
+        <elementListCompartment Id="73165da3-2a3a-4606-b529-7981fa2ed563" absoluteBounds="6.64, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.46168708969351); (5.875 : 2.83668708969351); (5.875 : 4.44314697265625); (6.625 : 4.44314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ISACFDataContext/ccfCategory/ccfCategory_ccfIPv4" />
+      <nodes>
+        <classShapeMoniker Id="08f3f71f-0229-41df-bc86-cba0b613a886" />
+        <classShapeMoniker Id="bc8bd2c5-17dc-4155-9b02-d65ea1b58bc4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 2.4631982421875); (4.5 : 3.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ISACFDataContext/ccfCategory/ccfCategory_ccfCategoryName_es" />
+      <nodes>
+        <classShapeMoniker Id="08f3f71f-0229-41df-bc86-cba0b613a886" />
+        <classShapeMoniker Id="320420ac-f66c-4782-bcfc-50c625f5aa7c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="3fbef457-544f-4831-ae51-81b7bc56bc65" absoluteBounds="0.625, 2.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ISACFDataContext/ccfCategoryToBlock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="38c668e9-9c21-4a16-bdfe-bfbfa1d7a5d7" absoluteBounds="0.64000000000000012, 2.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a6ef0c0e-8c55-4f12-8e10-d086ca84f366" absoluteBounds="0.625, 4.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/ISACFDataContext/vw_ccfCategoryToBlock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d09f6b0c-b57d-40c8-9c13-28e425743ec4" absoluteBounds="0.64000000000000012, 4.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
