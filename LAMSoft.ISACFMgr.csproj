@@ -115,15 +115,15 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ISACFData.dbml</DependentUpon>
     </Compile>
-    <Compile Include="pclsDownloader.cs">
+    <Compile Include="Downloader.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="clsLogProcessing.cs" />
-    <Compile Include="clsServiceSettings.cs" />
-    <Compile Include="pclsIsaRuleElements.cs">
+    <Compile Include="LogProcessing.cs" />
+    <Compile Include="ServiceSettings.cs" />
+    <Compile Include="IsaRuleElements.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="pclsTransformSource.cs">
+    <Compile Include="TransformSource.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="ISACFMgr.cs">
@@ -138,7 +138,7 @@
     <Compile Include="ISACFMgrServiceInstaller.Designer.cs">
       <DependentUpon>ISACFMgrServiceInstaller.cs</DependentUpon>
     </Compile>
-    <Compile Include="pclsUpdateSqlDb.cs">
+    <Compile Include="UpdateSqlDb.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Program.cs" />
@@ -149,7 +149,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Settings.cs" />
-    <Compile Include="clsStatus.cs" />
+    <Compile Include="Status.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">

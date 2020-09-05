@@ -39,3 +39,16 @@ C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\ISACFM
 C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\bin\Debug\Interop.FPCLib.dll
 C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\ISACFMgr.exe.manifest
 C:\Users\Leskyam\Documents\Visual Studio 2015\Projects\ISACfMgr\obj\Debug\ISACFMgr.application
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\bin\Debug\ISACFMgr.exe.config
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\bin\Debug\ISACFMgr.exe.manifest
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\bin\Debug\ISACFMgr.application
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\bin\Debug\ISACFMgr.exe
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\bin\Debug\ISACFMgr.pdb
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\LAMSoft.ISACFMgr.csprojAssemblyReference.cache
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\LAMSoft.ISACFMgr.csproj.ResolveComReference.cache
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\LAMSoft.ISACFMgr.csproj.CoreCompileInputs.cache
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\ISACFMgr.exe.manifest
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\ISACFMgr.application
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\LAMSoft.ISACFMgr.csproj.CopyComplete
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\ISACFMgr.exe
+C:\Users\lesky\source\repos\GitHub\ISACfMgr\obj\Debug\ISACFMgr.pdb

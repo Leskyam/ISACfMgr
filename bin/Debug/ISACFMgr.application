@@ -3,15 +3,18 @@
   <assemblyIdentity name="ISACFMgr.application" version="1.0.0.0" publicKeyToken="0000000000000000" language="es-MX" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="LAMSoft" asmv2:product="ISACFMgr" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ISACFMgr.exe.manifest" size="5605">
+    <dependentAssembly dependencyType="install" codebase="ISACFMgr.exe.manifest" size="4158">
       <assemblyIdentity name="ISACFMgr.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="es-MX" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>m4DEy3q2DT4+9CGJwRNKf7FFn54=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>s4TaToTQP0sbqqgZCGDv731N8sQRu95hd/ZHfhI2IZs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
